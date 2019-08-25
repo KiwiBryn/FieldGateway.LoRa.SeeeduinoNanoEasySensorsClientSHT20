@@ -11,3 +11,5 @@ My Arduino Nano clients uses
 
 ![Seeeduino Nano Client](SeeeduinoNanoSHT20.png)
 
+Detailed blog [post](https://blog.devmobile.co.nz/2019/08/25/df-robot-temperature-humidity-sensorsht20-trial/)
+
